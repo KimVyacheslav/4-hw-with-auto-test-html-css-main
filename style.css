@@ -261,7 +261,7 @@ footer {
     .main-section {
         /* 📍 Внутренние отступы сверху и снизу */
         max-height: 541;
-
+        padding: 30px 0 60px;
     }
 
     .main-section .wrapper {
